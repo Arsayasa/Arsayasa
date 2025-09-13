@@ -1,8 +1,9 @@
 ## Hi,welcome to my profile👋
 
 ![Arsayasa](img/github-header-banner.png)
+Welcome to my GitHub profile! I am still a student who is learning about the world of coding.
 
-###### Hi,
+---
 
 <!--
 **Arsayasa/Arsayasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
