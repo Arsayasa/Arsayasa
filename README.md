@@ -1,5 +1,7 @@
 ## Hi,welcome to my profile👋
 
+---
+
 ![Arsayasa](img/github-header-banner.png)
 Welcome to my GitHub profile! I am still a student who is learning about the world of coding.
 
@@ -28,3 +30,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+#### 🎵 My Song Favorite
+
+[<img src="https://i.pinimg.com/736x/bf/9f/74/bf9f743a3f9569e8ef24eeab0068c2a0.jpg" height="150">](https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7?si=bcb62e35f0bd4747)
