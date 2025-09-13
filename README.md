@@ -29,8 +29,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
+  
 ---
 
 #### 🎵 My Song Favorite
@@ -70,6 +71,12 @@ Here are some ideas to get you started:
 
 ###
 
+<img src="https://raw.githubusercontent.com/Arsayasa/Arsayasa/output/snake.svg" alt="Snake animation" />
+
 ###
 
 ---
+
+#### 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dranzzzdd)
